@@ -1,7 +1,7 @@
 # Customer Segmentation and Targeted Promotions
 
 This project applies **unsupervised machine learning** to segment customers based on demographics, purchase history, and behavioral patterns.  
-We use **clustering techniques** (KMeans, Ward hierarchical) to identify distinct groups of customers, then generate **association rules** to design **personalized marketing strategies**.
+We use **clustering techniques** (KMeans, Hierarchical Clustering) to identify distinct groups of customers, then generate **association rules** to design **personalized marketing strategies**.
 
 Developed as the **Machine Learning II Final Project (NOVA IMS, 2023/2024)**.
 
