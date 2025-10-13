@@ -42,7 +42,7 @@ Developed as the **Machine Learning II Final Project (NOVA IMS, 2023/2024)**.
 
 ---
 
-## 🔎 Methodology
+## Methodology
 
 1. **Exploratory Data Analysis (EDA)**  
    - Data cleaning (drop irrelevant cols, fix percentages, binary encodings).  
@@ -71,7 +71,7 @@ Developed as the **Machine Learning II Final Project (NOVA IMS, 2023/2024)**.
 
 ---
 
-## 📊 Results & Insights
+## Results & Insights
 
 - Identified **10 unique customer segments** with distinct purchasing patterns.  
 - **High Spenders** and **Tech Enthusiasts** concentrated in wealthy urban areas.  
@@ -81,7 +81,7 @@ Developed as the **Machine Learning II Final Project (NOVA IMS, 2023/2024)**.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:  
    ~~~bash
